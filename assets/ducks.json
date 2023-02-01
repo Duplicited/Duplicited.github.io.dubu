@@ -1,0 +1,9 @@
+{"ducks": [
+    {"id": 1, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/1.jpg"},
+    {"id": 2, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/2.jpg"},
+    {"id": 3, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/3.jpg"},
+    {"id": 4, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/4.jpg"},
+    {"id": 5, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/5.jpg"},
+    {"id": 6, "name": "Duck Enthusiast", "caption": "???", "link": "./assets/6.jpg"}
+    ]
+}
